@@ -45,8 +45,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Christmas Frames.io",
           "price": -1,
           "index": 0,
-          "col_span": "2",
-          "row_span":"1",
+          "col_span": 2,
+          "row_span": 1,
           "wrap":true
         },
         {
@@ -63,8 +63,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/New Year Frames.io",
           "price": -1,
           "index": 1,
-          "col_span": "2",
-          "row_span":"1",
+          "col_span": 2,
+          "row_span": 1,
           "wrap":true
         },
         {
@@ -81,8 +81,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Birthday Frames.io",
           "price": -1,
            "index": 2,
-          "col_span": "1",
-          "row_span":"1",
+          "col_span": 1,
+          "row_span": 1,
           "wrap":false
         },
         {
@@ -99,8 +99,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Romantic Frames.io",
           "price": -1,
           "index": 3,
-          "col_span": "1",
-          "row_span":"2",
+          "col_span": 1,
+          "row_span": 2,
           "wrap":false
         },
         {
@@ -117,8 +117,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Flower Frames.io",
           "price": -1,
           "index": 4,
-          "col_span": "1",
-          "row_span":"1",
+          "col_span": 1,
+          "row_span": 1,
           "wrap":false
         },
         {
@@ -135,8 +135,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Thanksgiving Frames.io",
           "price": -1,
           "index": 5,
-          "col_span": "2",
-          "row_span":"1",
+          "col_span": 2,
+          "row_span": 1,
           "wrap":true
         },
         {
@@ -153,8 +153,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Summer Frames.io",
           "price": -1,
           "index": 6,
-          "col_span": "1",
-          "row_span":"1",
+          "col_span": 1,
+          "row_span": 1,
           "wrap":false
         },
         {
@@ -171,8 +171,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Animal Frames.io",
           "price": -1,
           "index": 7,
-          "col_span": "1",
-          "row_span":"2",
+          "col_span": 1,
+          "row_span": 2,
           "wrap":false
         },
         {
@@ -189,8 +189,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/City frames.io",
           "price": -1,
           "index": 8,
-          "col_span": "1",
-          "row_span":"1",
+          "col_span": 1,
+          "row_span": 1,
           "wrap":false
         },
         {
@@ -207,8 +207,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Desert frames.io",
           "price": -1,
           "index": 9,
-          "col_span": "2",
-          "row_span":"1",
+          "col_span": 2,
+          "row_span": 1,
           "wrap":true
         },
         {
@@ -225,8 +225,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Mountain Frames.io",
           "price": -1,
           "index": 10,
-          "col_span": "1",
-          "row_span":"1",
+          "col_span": 1,
+          "row_span": 1,
           "wrap":false
         },
         {
@@ -243,8 +243,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Snowfall Frames.io",
           "price": -1,
           "index": 11,
-          "col_span": "1",
-          "row_span":"2",
+          "col_span": 1,
+          "row_span": 2,
           "wrap":false
         },
         {
@@ -261,8 +261,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Waterfall Frames.io",
           "price": -1,
           "index": 12,
-          "col_span": "1",
-          "row_span":"1",
+          "col_span": 1,
+          "row_span": 1,
           "wrap":false
         },
         {
@@ -279,8 +279,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Nature Frames.io",
           "price": -1,
           "index": 13,
-          "col_span": "2",
-          "row_span":"1",
+          "col_span": 2,
+          "row_span": 1,
           "wrap":true
         },
         {
@@ -297,8 +297,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Halloween Frames.io",
           "price": -1,
            "index": 14,
-          "col_span": "1",
-          "row_span":"1",
+          "col_span": 1,
+          "row_span": 1,
           "wrap":false
         },
         {
@@ -315,8 +315,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Love frames.io",
           "price": -1,
            "index": 15,
-          "col_span": "1",
-          "row_span":"2",
+          "col_span": 1,
+          "row_span": 2,
           "wrap":false
         },
         {
@@ -333,8 +333,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Birthday Cake Frames.io",
           "price": -1,
           "index": 16,
-          "col_span": "1",
-          "row_span":"1",
+          "col_span": 1,
+          "row_span": 1,
           "wrap":false
         },
         {
@@ -351,8 +351,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Mother frames.io",
           "price": -1,
           "index": 17,
-          "col_span": "2",
-          "row_span":"1",
+          "col_span": 2,
+          "row_span": 1,
           "wrap":true
         },
         {
@@ -369,8 +369,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Woman frames.io",
           "price": -1,
           "index": 18,
-          "col_span": "1",
-          "row_span":"1",
+          "col_span": 1,
+          "row_span": 1,
           "wrap":false
         },
         {
@@ -387,8 +387,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Valentine frames.io",
           "price": -1,
           "index": 19,
-          "col_span": "1",
-          "row_span":"2",
+          "col_span": 1,
+          "row_span": 2,
           "wrap":false
         },
         {
@@ -405,8 +405,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Father frames.io",
           "price": -1,
           "index": 20,
-          "col_span": "1",
-          "row_span":"1",
+          "col_span": 1,
+          "row_span": 1,
           "wrap":false
         },
         {
@@ -423,8 +423,8 @@
           "link": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Wedding Frames.io",
           "price": -1,
           "index": 21,
-          "col_span": "2",
-          "row_span":"1",
+          "col_span": 2,
+          "row_span": 1,
           "wrap":true
         }
       ],
