@@ -4,7 +4,13 @@
       "am_ba": "/kWIDzfJFmTGC0ryQcrcg4uAoTuEQ2/WmFcs+e7MqaC6+PaXgbK9BZfr4tGK3gJR",
       "am_in": "/kWIDzfJFmTGC0ryQcrcg9auU0sLqDpUH02HP6xozN8/G5TvkGUAAuQ8UEIeIoBJ",
       "am_na": "/kWIDzfJFmTGC0ryQcrcg472awCw0XbO4kl7E/LHNOwpWO0pNIH3U+m33tIsdJdt",
-      "ads_list": ["am"]
+      
+      "fb_ba": "5R0gC6vSeLcja12Gjnwv6rn9zrXaJvlDxCXIORDXj6XiuwGUD+m8QdH0hGJ7w+W/",
+      "fb_in": "5R0gC6vSeLcja12Gjnwv6lseKo3S1rN94lIVZhY6qzWyzl0qkr53DQIiBJ/xIbDv",
+      "fb_re": "5R0gC6vSeLcja12Gjnwv6nWfjaYGPuwNa3Kv/pHvRgBJ1CgvexhaFTQMMHa6sHu7",
+      "fb_na": "5R0gC6vSeLcja12Gjnwv6v7yLPSTtBTPjbaRpcqLUGriqAZNJgxooBrbTU9Up5Ox",
+      
+      "ads_list": ["fb", "am"]
     }
   },
   {
