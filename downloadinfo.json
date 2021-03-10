@@ -11,6 +11,18 @@
       "ads_list": ["fb"]
     }
   },
+   {
+    "sweet.snap.art.filters.selfies": {
+
+      "fb_ba": "21aS9As3mEfVhRMjBoh50sjfDs33gzCzH6s7Z9OcgpU=",
+      "fb_in": "21aS9As3mEfVhRMjBoh50s8H1RgeAt8StqnXbXfONIk=",
+      "fb_home_in": "21aS9As3mEfVhRMjBoh50s8H1RgeAt8StqnXbXfONIk=",
+      "fb_re": "21aS9As3mEfVhRMjBoh50oxfEgaGTyyI+1vEc1yLsQw=",
+      "fb_na": "21aS9As3mEfVhRMjBoh50lClwKVYCmhpHv6gnFEBudo=",
+
+      "ads_list": ["fb"]
+    }
+  },
   {
     "sweet.snap.art.filters.snapchat": {
 
