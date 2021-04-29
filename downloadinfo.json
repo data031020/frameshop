@@ -1,9 +1,9 @@
 [
     {
     "sweet.snap.art.hair.color.editor.different.hair.colors.changer": {
-      "am_ba": "/kWIDzfJFmTGC0ryQcrcg4ZCxhivYsSs+TljFHNI9pisciivdk2/mX1lkkG+ecSL",
-      "am_in": "/kWIDzfJFmTGC0ryQcrcg6GaXWszmTA3R6uDVIE+6Sj3jhBYIcRKF/wzkqLPiiVs",
-      "am_na": "/kWIDzfJFmTGC0ryQcrcgxzDmiB6C5FFj2KPKmMhzIkMvrMMLL8DF4oKNhtc4iPa",
+      "am_ba": "WsU+tyXvxjzdunKaSdgGO+ORbuXvwVyN9L+zJlzXivAzM3DGIKlGMOzpGArHbvhX",
+      "am_in": "WsU+tyXvxjzdunKaSdgGO5yayeZVi0EsNXi8Z5qV8ngzApVJynB/Jhruyx3nOGNe",
+      "am_na": "WsU+tyXvxjzdunKaSdgGO2HdHnszUgldC6B8sPUA6gvTVcgMoo05zIqdUa3CI15c",
 
       "fb_ba": "5R0gC6vSeLcja12Gjnwv6rn9zrXaJvlDxCXIORDXj6XiuwGUD+m8QdH0hGJ7w+W/",
       "fb_in": "5R0gC6vSeLcja12Gjnwv6lseKo3S1rN94lIVZhY6qzWyzl0qkr53DQIiBJ/xIbDv",
@@ -11,7 +11,7 @@
       "fb_re": "5R0gC6vSeLcja12Gjnwv6nWfjaYGPuwNa3Kv/pHvRgBJ1CgvexhaFTQMMHa6sHu7",
       "fb_na": "5R0gC6vSeLcja12Gjnwv6v7yLPSTtBTPjbaRpcqLUGriqAZNJgxooBrbTU9Up5Ox",
       
-      "ads_list": ["fb", "am"]
+      "ads_list": ["am", "fb"]
     }
   },
    {
