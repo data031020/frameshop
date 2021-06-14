@@ -1,6 +1,9 @@
 [
     {
     "sweet.snap.art.hair.color.editor.different.hair.colors.changer": {
+    "am_ba": "D/ylS1xBM8/uuadnn379paXbDTtpuKpy1nf9+u1ibd7J6CYhSy+ypooGeLvUHcyU",
+      "am_in": "D/ylS1xBM8/uuadnn379pbhf9SPCukJytP4JXdsQQh9v5h0O9Zw1lls7fqoWD4nh",
+      "am_na": "D/ylS1xBM8/uuadnn379pcXAR8YRWTeDP+XbufSkU8uDcZXst/oLsR91raYBb9e6",
 
       "fb_ba": "5R0gC6vSeLcja12Gjnwv6rn9zrXaJvlDxCXIORDXj6XiuwGUD+m8QdH0hGJ7w+W/",
       "fb_in": "5R0gC6vSeLcja12Gjnwv6lseKo3S1rN94lIVZhY6qzWyzl0qkr53DQIiBJ/xIbDv",
@@ -8,7 +11,7 @@
       "fb_re": "5R0gC6vSeLcja12Gjnwv6nWfjaYGPuwNa3Kv/pHvRgBJ1CgvexhaFTQMMHa6sHu7",
       "fb_na": "5R0gC6vSeLcja12Gjnwv6v7yLPSTtBTPjbaRpcqLUGriqAZNJgxooBrbTU9Up5Ox",
       
-      "ads_list": ["fb"]
+      "ads_list": ["am", "fb"]
     }
   },
    {
