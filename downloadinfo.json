@@ -2,16 +2,17 @@
     {
     "sweet.snap.art.hair.color.editor.different.hair.colors.changer": {
       "am_ba": "",
-      "am_in": "",
+      "am_in": "/kWIDzfJFmTGC0ryQcrcgxPPbEIypgbAV1pzieFnURQNx0Iehb6iHw9ku/wr2gw0",
+      "am_home_in": "/kWIDzfJFmTGC0ryQcrcgxPPbEIypgbAV1pzieFnURQNx0Iehb6iHw9ku/wr2gw0",
       "am_na": "",
 
       "fb_ba": "5R0gC6vSeLcja12Gjnwv6rn9zrXaJvlDxCXIORDXj6XiuwGUD+m8QdH0hGJ7w+W/",
-      "fb_in": "5R0gC6vSeLcja12Gjnwv6lseKo3S1rN94lIVZhY6qzWyzl0qkr53DQIiBJ/xIbDv",
-      "fb_home_in": "5R0gC6vSeLcja12Gjnwv6lseKo3S1rN94lIVZhY6qzWyzl0qkr53DQIiBJ/xIbDv",
+      "fb_in": "qHGpTBN0xnFDwuKgptn22g==",
+      "fb_home_in": "qHGpTBN0xnFDwuKgptn22g==",
       "fb_re": "5R0gC6vSeLcja12Gjnwv6nWfjaYGPuwNa3Kv/pHvRgBJ1CgvexhaFTQMMHa6sHu7",
       "fb_na": "5R0gC6vSeLcja12Gjnwv6v7yLPSTtBTPjbaRpcqLUGriqAZNJgxooBrbTU9Up5Ox",
       
-      "ads_list": ["fb"]
+      "ads_list": ["fb", "am"]
     }
   },
    {
