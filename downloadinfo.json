@@ -18,7 +18,7 @@
       "mp_na": "EULUtnfKzTUIA5kAL31koca1vspeK0W2vleiGzYvTB9H0ED8uUxiMNkJsEs9Sc5i",
 
       
-      "ads_list": ["mp", "fb", "am"]
+      "ads_list": ["mp", "am", "fb"]
     }
   },
    {
@@ -68,7 +68,7 @@
       "mp_na": "p3Wf0hhsRb743kc3Eu53GrkX5JkieRY4Lxw5r+OQ2kiWwS6/E2abDiiCjZBsZKjf",
 
 
-      "ads_list": ["fb", "am", "mp"]
+      "ads_list": ["mp", "am", "fb"]
     }
   },
   {
