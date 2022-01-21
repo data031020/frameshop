@@ -42,6 +42,11 @@
   {
     "sweet.snap.art.filters.snapchat": {
 
+      "am_ba": "/kWIDzfJFmTGC0ryQcrcg2E/ZhPiuInrFUdW9FpI8bFYcZykCK7lBCpJ0hk33ZE0",
+      "am_in": "/kWIDzfJFmTGC0ryQcrcgzANsWILzEn48M2BklsvYgOj7x5/uba4d9v+koUp2Ibc",
+      "am_home_in": "/kWIDzfJFmTGC0ryQcrcgzANsWILzEn48M2BklsvYgOj7x5/uba4d9v+koUp2Ibc",
+      "am_na": "/kWIDzfJFmTGC0ryQcrcg4O+/mF4aVvKKOofswmCW1R2PLQ+ANU22s9CTL3qCsY1",
+
       "mp_ba": "Q24cXAHJGu6u/fzwjIzh7rzjrkVeW75b73PYtQSk7SrboBo68MF/59J7k4ymaruv",
       "mp_in": "VpsvX63rWcMKP7XGTr0nEf0OlNJMRNY9lpJYf+4iLzrLwWLZSnhaI86KTMaVC0g8",
       "mp_re": "FpbqrzXJVN48fIa3CNkwVWzS1//h9HupKTdR5YwswY6nSgA7MhgFIzJd2S5skDzX",
@@ -53,7 +58,7 @@
       "fb_re": "LbFz3dHslIwrnzKd9Qwlg6PLqngvBp3Xdnk4fvmpWOQ=",
       "fb_na": "LbFz3dHslIwrnzKd9Qwlg5iuL2yX6/XnI8Typ2y8hqE=",
 
-      "ads_list": ["mp", "fb"]
+      "ads_list": ["am", "mp", "fb"]
     }
   },
   {
