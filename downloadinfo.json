@@ -18,11 +18,6 @@
   },
    {
     "sweet.snap.art.filters.selfies": {
-      "am_ba": "CV8CuVNL7KH6JUbBP0MXQgmkhB2f7jYOEUfFxEqfz9s+sat5DA1GwnWI2MrZn0NU",
-      "am_in": "CV8CuVNL7KH6JUbBP0MXQm97+x/X09oU2dMA7MCthW2tk2t19BLN5jytIf8zKoLZ",
-      "am_home_in": "CV8CuVNL7KH6JUbBP0MXQm97+x/X09oU2dMA7MCthW2tk2t19BLN5jytIf8zKoLZ",
-      "am_na": "CV8CuVNL7KH6JUbBP0MXQsT+l7UiH/Ks+ZxizpWGR0ICZBq9tKRmwnQd+FWY7/JZ",
-
       "fb_ba": "21aS9As3mEfVhRMjBoh50sjfDs33gzCzH6s7Z9OcgpU=",
       "fb_in": "21aS9As3mEfVhRMjBoh50s8H1RgeAt8StqnXbXfONIk=",
       "fb_home_in": "21aS9As3mEfVhRMjBoh50s8H1RgeAt8StqnXbXfONIk=",
@@ -35,7 +30,7 @@
       "mp_na": "qyKavr8ra2tcJp4hTbS8TemPRT7ljsgKO5FiBfPytmI0CsE7GvN3eJh82OZ6SM4n",
 
 
-      "ads_list": ["am", "fb", "mp"]
+      "ads_list": ["fb", "mp"]
     }
   },
   {
