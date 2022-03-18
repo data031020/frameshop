@@ -15,7 +15,7 @@
 
       "is_id": "f+nBu8kj/NUSHCJeJyl7wQ==",
 
-      "ads_list": ["is", "am", "fb"]
+      "ads_list": ["am", "is", "fb"]
     }
   },
    {
@@ -55,6 +55,10 @@
   },
   {
     "sweet.snap.art.camera.lite.snap.cat.face.camera": {
+      "am_ba": "/kWIDzfJFmTGC0ryQcrcg3hMI04XwOxuLYndy5lzbTAhwKsffejRIokL3O+r6qe5",
+      "am_in": "/kWIDzfJFmTGC0ryQcrcg8e3bn+eo1WziMwSL4+Te/Q3KAiKuzexthROOHJ0uooW",
+      "am_home_in": "/kWIDzfJFmTGC0ryQcrcg8e3bn+eo1WziMwSL4+Te/Q3KAiKuzexthROOHJ0uooW",
+      "am_na": "/kWIDzfJFmTGC0ryQcrcgz02H0zaIz8ASdejR8YWIkDMHjy4h0xGhf1sfupiW0lI",
 
       "fb_ba": "1ixp8IbUcteOnWFzSgGa+v5jszep6Tijp8eVEoUmV7Y=",
       "fb_in": "1ixp8IbUcteOnWFzSgGa+id5jY5guBzSQHE3srPkBVI=",
@@ -64,7 +68,7 @@
 
       "is_id": "xUCfcAQJ7ab2d/DLI9cmYw==",
 
-      "ads_list": ["is", "fb"]
+      "ads_list": ["am", "is", "fb"]
     }
   },
   {
