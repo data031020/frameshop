@@ -72,24 +72,6 @@
     }
   },
   {
-    "sweet.snap.art.camera.lite.snap.cat.face.camera": {
-      "am_ba": "/kWIDzfJFmTGC0ryQcrcg5gF7rDUbkN/BJINVRnB6exp9Fu+Dp3QESDHrjoni3a6",
-      "am_in": "/kWIDzfJFmTGC0ryQcrcgzrlXbVe5cg+7O4TqtQ3p8H5okSjcqnfcKnenO1QTbrP",
-      "am_home_in": "/kWIDzfJFmTGC0ryQcrcgzrlXbVe5cg+7O4TqtQ3p8H5okSjcqnfcKnenO1QTbrP",
-      "am_na": "/kWIDzfJFmTGC0ryQcrcg6GfYck91/eU8/n5QS9KLYwOcQaBWPNWv2rUXRr23iH7",
-
-      "fb_ba": "1ixp8IbUcteOnWFzSgGa+v5jszep6Tijp8eVEoUmV7Y=",
-      "fb_in": "1ixp8IbUcteOnWFzSgGa+id5jY5guBzSQHE3srPkBVI=",
-      "fb_home_in": "1ixp8IbUcteOnWFzSgGa+id5jY5guBzSQHE3srPkBVI=",
-      "fb_re": "1ixp8IbUcteOnWFzSgGa+hRJQckImCBfzuyUH2gMKpk=",
-      "fb_na": "1ixp8IbUcteOnWFzSgGa+uhU/fRvKLQIk8DlX1LJPho=",
-
-      "is_id": "xUCfcAQJ7ab2d/DLI9cmYw==",
-
-      "ads_list": ["am", "is", "fb"]
-    }
-  },
-  {
     "foto.arte.selfie.camera.filter": {
       "ads_list": [
         "fb",
