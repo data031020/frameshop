@@ -38,6 +38,16 @@
   },
   {
     "sweet.snap.art.filters.snapchat": {
+      "am_in": "tFNWCOUXDV54kmQwOagylXNSxmpTiQUzJZoSmEKJOs6BUqPh90E+PiP9aIiCp5cm",
+      "app_id": "ca-app-pub-6679447030163077~5246309042",
+
+      "is_id": "lT7vxmz0LPJkuQj3EiAL9w==",
+
+      "ads_list": ["am", "is"]
+    }
+  },
+  {
+    "sweet.snap.art.filters.snapchat.bk": {
       "is_id": "lT7vxmz0LPJkuQj3EiAL9w==",
 
       "ads_list": ["is"]
