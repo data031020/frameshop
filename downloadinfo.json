@@ -30,9 +30,9 @@
 
       "interval": 10000,
 
-      "inf" : "data/filtersweet/inf",
+      "inf123" : "data/filtersweet/inf",
 
-      "ads_list": ["am"]
+      "ads_list": ["zzz"]
     }
   },
    {
