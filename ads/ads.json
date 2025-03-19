@@ -1,21 +1,21 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/icon1.png",
-      "cover": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/graphic1.png",
-      "appName": "Hairstyle Try On",
+      "icon": "https://raw.githubusercontent.com/data031020/frameshop/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/data031020/frameshop/master/ads/graphic1.png",
+      "appName": "Filters for SC & Stickers",
       "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
-      "package": "foto.arte.hair.color.changer",
+      "package": "sweet.snap.art.filters.snapchat",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
     },
     {
-      "icon": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/graphic.jpg",
-      "appName": "Heart Crown Editor",
+      "icon": "https://raw.githubusercontent.com/data031020/frameshop/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/data031020/frameshop/master/ads/graphic.png",
+      "appName": "Filters for selfies",
       "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
-      "package": "beautyroom.heart.crown.editor",
+      "package": "sweet.snap.art.filters.selfies",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"

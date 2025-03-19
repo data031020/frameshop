@@ -11,11 +11,11 @@
       "type": "app"
     },
     {
-      "icon": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/graphic.jpg",
-      "appName": "Heart Crown Editor",
+      "icon": "https://raw.githubusercontent.com/data031020/frameshop/master/adscamera/icon.png",
+      "cover": "https://raw.githubusercontent.com/data031020/frameshop/master/adscamera/graphic.png",
+      "appName": "Filters for selfies",
       "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
-      "package": "beautyroom.heart.crown.editor",
+      "package": "sweet.snap.art.filters.selfies",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
