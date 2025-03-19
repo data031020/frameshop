@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/data031020/frameshop/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/data031020/frameshop/master/ads/graphic1.png",
-      "appName": "Filters for SC & Stickers",
+      "appName": "Hair color editor",
       "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
-      "package": "sweet.snap.art.filters.snapchat",
+      "package": "sweet.snap.art.hair.color.editor.different.hair.colors.changer",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
