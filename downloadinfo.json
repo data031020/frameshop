@@ -1,6 +1,27 @@
 [
     {
     "sweet.snap.art.hair.color.editor.different.hair.colors.changer": {
+      "am_ba": "",
+      "am_in": "n6lYXpDDYDh8zG/moQs6uFF7hHmSqnBiSAsZg8uoJJgXfIQ3YzEFxDjigfFCHP1g",
+      "am_home_in": "n6lYXpDDYDh8zG/moQs6uFF7hHmSqnBiSAsZg8uoJJgXfIQ3YzEFxDjigfFCHP1g",
+      "am_na": "",
+
+      "app_id": "ca-app-pub-7949569030876855~4368964730",
+
+
+      "fb_ba": "5R0gC6vSeLcja12Gjnwv6rn9zrXaJvlDxCXIORDXj6XiuwGUD+m8QdH0hGJ7w+W/",
+      "fb_in": "qHGpTBN0xnFDwuKgptn22g==",
+      "fb_home_in": "qHGpTBN0xnFDwuKgptn22g==",
+      "fb_re": "5R0gC6vSeLcja12Gjnwv6nWfjaYGPuwNa3Kv/pHvRgBJ1CgvexhaFTQMMHa6sHu7",
+      "fb_na": "5R0gC6vSeLcja12Gjnwv6v7yLPSTtBTPjbaRpcqLUGriqAZNJgxooBrbTU9Up5Ox",
+
+      "is_id": "f+nBu8kj/NUSHCJeJyl7wQ==",
+
+      "ads_list": ["am", "is"]
+    }
+  },
+  {
+    "sweet.snap.art.hair.color.editor.different.hair.colors.changer.bk": {
       "am_ba": "/kWIDzfJFmTGC0ryQcrcg344hPXfCc/t88vitBE+ZnmY5RBEq4rOng6MWvpatTHC",
       "am_in": "/kWIDzfJFmTGC0ryQcrcg541ZfBVMVaihprbISW/18eG7erEI9+/TqcWMVxIU55Y",
       "am_home_in": "/kWIDzfJFmTGC0ryQcrcg541ZfBVMVaihprbISW/18eG7erEI9+/TqcWMVxIU55Y",
@@ -37,6 +58,26 @@
   },
    {
     "sweet.snap.art.filters.selfies": {
+      "am_ba": "",
+      "am_in": "n6lYXpDDYDh8zG/moQs6uLnw7Ft/I92bJ6BWYJivfmgi7SDWZoDcmgtiLa8g4Typ",
+      "am_home_in": "n6lYXpDDYDh8zG/moQs6uLnw7Ft/I92bJ6BWYJivfmgi7SDWZoDcmgtiLa8g4Typ",
+      "am_na": "",
+
+      "app_id": "ca-app-pub-7949569030876855~3208760453",
+
+      "fb_ba": "21aS9As3mEfVhRMjBoh50sjfDs33gzCzH6s7Z9OcgpU=",
+      "fb_in": "21aS9As3mEfVhRMjBoh50s8H1RgeAt8StqnXbXfONIk=",
+      "fb_home_in": "21aS9As3mEfVhRMjBoh50s8H1RgeAt8StqnXbXfONIk=",
+      "fb_re": "21aS9As3mEfVhRMjBoh50oxfEgaGTyyI+1vEc1yLsQw=",
+      "fb_na": "21aS9As3mEfVhRMjBoh50lClwKVYCmhpHv6gnFEBudo=",
+
+      "is_id": "vZE61qkcaAse9+9sYivTtg==",
+
+      "ads_list": ["am", "is"]
+    }
+  },
+  {
+    "sweet.snap.art.filters.selfies.bk": {
       "am_ba": "/kWIDzfJFmTGC0ryQcrcgwTpFJaNA/YHhuB8Veba2gLt2ooVNbZ2amlLkmK75vQD",
       "am_in": "/kWIDzfJFmTGC0ryQcrcg7hlJqpbFfQcx8F/OWet652F2BchAcbhaEwuQ5O3rTcK",
       "am_home_in": "/kWIDzfJFmTGC0ryQcrcg7hlJqpbFfQcx8F/OWet652F2BchAcbhaEwuQ5O3rTcK",
