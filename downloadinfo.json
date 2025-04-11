@@ -96,8 +96,10 @@
   },
   {
     "sweet.snap.art.filters.snapchat": {
-      "am_in": "cb0WLiLl40GpMbtE0vz0sfse6vaU/QZFqXHSI+TCnR1r9v8dkLDlBRmOpFagNvW2",
-      "app_id": "ca-app-pub-6039162410425107~3380134930",
+      "am_in": "2lysWNYv+/6t1ztA3CZliJ7nPbc7t1c1fxsg5pmxdi+Kkgq9HVCcf0y0ntn0Utao",
+      "app_id": "ca-app-pub-3856806356643461~2090796503",
+
+      "interval": 45000,
 
       "is_id": "EaGXuz9v1Hx6UxYTzOFl/Q==",
 
