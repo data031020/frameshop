@@ -56,6 +56,23 @@
       "ads_list": ["am"]
     }
   },
+  {
+    "filter.sweet.camera": {
+      "is_id": "",
+
+      "am_ba": "",
+      "am_in": "ca-app-pub-4756472212563830/4973315997",
+      "am_na": "",
+      
+      "app_id": "ca-app-pub-4756472212563830~2898178384",
+
+      "interval": 50000,
+
+      "inf123" : "data/filtersweet/inf",
+
+      "ads_list": ["am"]
+    }
+  },
    {
     "sweet.snap.art.filters.selfies": {
       "am_ba": "",
