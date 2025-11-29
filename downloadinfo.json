@@ -61,16 +61,16 @@
       "is_id": "",
 
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-6039162410425107/9653018952",
       "am_na": "",
       
-      "app_id": "",
+      "app_id": "ca-app-pub-6039162410425107~7274267621",
 
       "interval": 50000,
 
       "inf123" : "data/filtersweet/inf",
 
-      "ads_list": ["zz"]
+      "ads_list": ["am"]
     }
   },
    {
