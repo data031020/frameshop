@@ -60,17 +60,17 @@
     "filter.sweet.camera": {
       "is_id": "",
 
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
+      "am_ba": "ca-app-pub-9021643558394585/5209379747",
+      "am_in": "ca-app-pub-9021643558394585/5732123925",
+      "am_na": "ca-app-pub-9021643558394585/8797270960",
       
-      "app_id": "",
+      "app_id": "ca-app-pub-9021643558394585~2196869874",
 
       "interval": 50000,
 
       "inf123" : "data/filtersweet/inf",
 
-      "ads_list": ["xx"]
+      "ads_list": ["am"]
     }
   },
   {
