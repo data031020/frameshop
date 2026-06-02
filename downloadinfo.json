@@ -60,26 +60,9 @@
     "filter.sweet.camera": {
       "is_id": "268148745",
 
-      "am_ba": "ca-app-pub-6750486231908888/7968531069",
-      "am_in": "ca-app-pub-6750486231908888/2956181453",
-      "am_na": "ca-app-pub-6750486231908888/2632443907",
-      
-      "app_id": "ca-app-pub-6750486231908888~8253180137",
-
-      "interval": 50000,
-
-      "inf123" : "data/filtersweet/inf",
-
-      "ads_list": ["am", "is"]
-    }
-  },
-  {
-    "filter.sweet.camera.mobell": {
-      "is_id": "",
-
-      "am_ba": "ca-app-pub-6615831081036167/1020447550",
-      "am_in": "ca-app-pub-6615831081036167/5921420447",
-      "am_na": "ca-app-pub-6615831081036167/6081202548",
+      "am_ba": "ca-app-pub-6615831081036167/7728914416",
+      "am_in": "ca-app-pub-6615831081036167/6224261053",
+      "am_na": "ca-app-pub-6615831081036167/7465190536",
       
       "app_id": "ca-app-pub-6615831081036167~9258030220",
 
@@ -87,7 +70,7 @@
 
       "inf123" : "data/filtersweet/inf",
 
-      "ads_list": ["am"]
+      "ads_list": ["am", "is"]
     }
   },
    {
